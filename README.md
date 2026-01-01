@@ -12,7 +12,7 @@
 ## 🔥 Featured Project
 ### 🚀 [Threat Composer ECS Project](https://github.com/[zai-hub]/[threat-composer-ecs])
 **What it is:** [I containerised and deployed an application on AWS ECS (Fargate) using Docker, Terraform and GitHub Actions.]  
-**Tech:** `Terraform` `Docker` `CI/CD` `GitHub Actions` `AWS` *(edit)*  
+**Tech:** `Terraform` `Docker` `CI/CD` `GitHub Actions` `AWS`  
 **Highlights:**
 - ✅ [Containerised an application with a multi-stage Docker build]
 - ✅ [Deployed it to ECS Fargate behind an ALB]
