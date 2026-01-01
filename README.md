@@ -25,7 +25,7 @@ Continuously improving skills around automation, observability, security and pla
   </a>
 </p>
 
-
+---
 ### 🔥 Featured Project
 #### 🚀 [Threat Composer ECS Project](https://github.com/[zai-hub]/[threat-composer-ecs])
 **What it is:** [I containerised and deployed an application on AWS ECS (Fargate) using Docker, Terraform and GitHub Actions.]  
