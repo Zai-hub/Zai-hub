@@ -1,10 +1,8 @@
-## DevOps
+## DevOps | Cloud
 ---
 ## About Me
 
-DevOps focused with hands on experience designing CI/CD pipelines,  
-provisioning cloud infrastructure with Terraform and deploying containerised  
-applications using Docker.
+DevOps focused with hands on experience designing CI/CD pipelines, provisioning cloud infrastructure with Terraform and deploying containerised applications using Docker.
 
 Continuously improving skills around automation, observability, security and platform reliability.
 
