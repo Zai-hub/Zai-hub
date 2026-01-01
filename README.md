@@ -1,5 +1,14 @@
-## Hi there 👋
+## DevOps
+---
+## About Me
 
+DevOps focused with hands on experience designing CI/CD pipelines,  
+provisioning cloud infrastructure with Terraform and deploying containerised  
+applications using Docker.
+
+Continuously improving skills around automation, observability, security and platform reliability.
+
+---
 ## Tech Stack
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -9,6 +18,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+---
 ## 🤝 Connect with Me
 
 <p align="left">
@@ -17,6 +27,7 @@
   </a>
 </p>
 
+---
 ## 🔥 Featured Project
 ### 🚀 [Threat Composer ECS Project](https://github.com/[zai-hub]/[threat-composer-ecs])
 **What it is:** [I containerised and deployed an application on AWS ECS (Fargate) using Docker, Terraform and GitHub Actions.]  
@@ -31,22 +42,3 @@
 - ✅ [Used S3 for remote Terraform and DynamoDB for locking]
 - ✅ [Built CI/CD pipelines with GitHub Actions using OIDC]
 - ✅ [Added post deploy health check]
-
-**Next steps:**
-- ⏭️ [Auto-scaling policies]
-- ⏭️ [CloudWatch monitoring and alarms]
-
-<!--
-**Zai-hub/Zai-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
