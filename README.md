@@ -9,6 +9,14 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/zainab-t" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ## 🔥 Featured Project
 ### 🚀 [Threat Composer ECS Project](https://github.com/[zai-hub]/[threat-composer-ecs])
 **What it is:** [I containerised and deployed an application on AWS ECS (Fargate) using Docker, Terraform and GitHub Actions.]  
